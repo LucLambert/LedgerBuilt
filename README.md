@@ -1,6 +1,6 @@
 # LedgerBuilt
 
-LedgerBuilt is a comprehensive solution for managing your building's finances. Using Python, Flask, Oracle SQL, Docker.
+LedgerBuilt is a comprehensive solution for managing your building's finances. Using Python, Flask, SQLite3, Docker.
 
 # Getting Started
 
